@@ -36,7 +36,7 @@
     "smartenv": "0.0.15"
   },
   "devDependencies": {
-    "easyserve": "0.0.4",
+    "easyserve": "0.0.5",
     "gulp": "^3.9.0",
     "gulp-browser": "0.0.18",
     "gulp-typescript": "^2.10.0"
