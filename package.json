@@ -38,7 +38,7 @@
   "devDependencies": {
     "easyserve": "0.0.4",
     "gulp": "^3.9.0",
-    "gulp-browser": "0.0.18",
+    "gulp-browser": "1.0.0",
     "npmts": "^1.0.9"
   }
 }
