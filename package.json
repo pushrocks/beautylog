@@ -34,7 +34,7 @@
     "cli-table2": "^0.1.9",
     "colors": "1.1.2",
     "highlight.js": "^9.1.0",
-    "html2console": "0.0.4",
+    "html2console": "0.0.6",
     "smartenv": "0.0.15"
   },
   "devDependencies": {
