@@ -41,6 +41,6 @@
     "easyserve": "0.0.5",
     "gulp": "^3.9.0",
     "gulp-browser": "1.0.3",
-    "npmts": "^1.0.12"
+    "npmts": "^2.0.0"
   }
 }
