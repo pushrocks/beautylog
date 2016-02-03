@@ -31,7 +31,7 @@
   "homepage": "https://github.com/pushrocks/beautylog",
   "dependencies": {
     "cli-color": "^1.1.0",
-    "cli-table2": "^0.1.9",
+    "cli-table2": "^0.2.0",
     "colors": "1.1.2",
     "hlight": "0.0.7",
     "smartenv": "0.0.15"
