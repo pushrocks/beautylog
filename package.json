@@ -37,7 +37,7 @@
     "hlight": "0.0.8",
     "lodash": "^4.5.1",
     "q": "^1.4.1",
-    "smartenv": "1.0.9"
+    "smartenv": "1.0.10"
   },
   "devDependencies": {
     "easyserve": "0.0.5",
